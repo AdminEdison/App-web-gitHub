@@ -1,5 +1,41 @@
 
 * {
-    background-color: blueviolet;
-    font-family: Arial;
+    font-family: 'Trebuchet MS';
+}
+
+#seccion-m {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(30 30 30);
+}
+
+#seccion-m #first-title {
+    margin-left: 300px;
+    padding: 75px 150px 0px;
+    color: whitesmoke;
+}
+
+#seccion-m #second-title {
+    margin-left: 300px;
+    padding: 0px 150px 0px;
+    color: whitesmoke;
+}
+
+#seccion-m .letter-color {
+    color: rgb(255, 72, 0);
+}
+
+#seccion-m img {
+    float: left;
+    margin-left: 50px;
+    padding: 75px 0px 0px 100px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#seccion-m p {  
+    color: whitesmoke;
+    margin-left: 300px;
+    height: 25px;
+    padding: 0px 150px 105px 150px;
 }
